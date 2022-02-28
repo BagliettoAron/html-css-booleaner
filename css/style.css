@@ -69,14 +69,25 @@ footer h3{
     width: 70px;
 }
 
-#monitor-image{
-    width: 200px;
-    height: 180px;
-    background-color: red;
+#footer-image{
+    width: 200px;  
+    margin-bottom: 10px;
+    position: relative;
 }
 
-.monitor-image img{
+.footer-image img{
    background: cover;
    max-width: 100%;
+}
+
+.text-image{
+    position: absolute;
+    top: 15px;
+    left: 5px;
+    color: white;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
 
 
