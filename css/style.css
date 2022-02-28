@@ -11,9 +11,10 @@
     
 }
 
-.png img{
-    height: 100%;
-    background: content;
+.bg-header img{
+    max-height: 100%;
+    background: cover;
+    background: repeat;
    
 }
 
