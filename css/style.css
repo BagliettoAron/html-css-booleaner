@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    margin-left: 10px;
+}
+.big{
+    font-size: 3em;
+}
+
+#editor{
+    color: #808080;
+    font-weight: 200;
+    margin-bottom: 20px;
+}
+
+#editor a{
+    color: #24aae5;
+    text-decoration: none;
+    
+}
+
+#author{
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+#photo-info{
+    font-size: 0.7em;
+    margin-bottom: 20px;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+#long-text{
+    margin-bottom: 40px;
+}
