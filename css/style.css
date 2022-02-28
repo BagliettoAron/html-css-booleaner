@@ -4,6 +4,21 @@
     box-sizing: border-box;
 }
 
+.bg-header{
+   width: 100%;
+    height: 60px;
+    background-color: #4ea0ff;
+    
+}
+
+.png img{
+    height: 100%;
+    background: content;
+   
+}
+
+
+
 main{
     margin-left: 10px;
 }
@@ -45,6 +60,7 @@ main{
 
 table{
     width: 100%;
+
 }
 
 th {
