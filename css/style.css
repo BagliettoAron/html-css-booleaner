@@ -8,15 +8,12 @@
    width: 100%;
     height: 60px;
     background-color: #4ea0ff;
+    background-image: url("html-css-booleaner/img/pattern.png");
+    background-height: 100%;
     
 }
 
-.bg-header img{
-    max-height: 100%;
-    background: cover;
-    background: repeat;
-   
-}
+
 
 
 
